@@ -1,4 +1,7 @@
 from functions import deal_card
+from art import blackjack
+
+print(blackjack)
 
 player = []
 dealer = []
